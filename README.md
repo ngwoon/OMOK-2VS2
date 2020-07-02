@@ -49,7 +49,7 @@ OMOK-2VS2
 ![오목알 놓기](https://user-images.githubusercontent.com/55482623/86343062-680b3200-bc93-11ea-9b2b-a9b28c7ef881.png)
 <br/><br/>
 
-각 플레이어는 제한 시간 안에 오목알을 놓아야 합니다. 그렇지 않으면 오목알을 두지 못한 채 상대 팀의 턴으로 넘어갑니다. <br/>
+  각 플레이어는 제한 시간 안에 오목알을 놓아야 합니다. 그렇지 않으면 오목알을 두지 못한 채 상대 팀의 턴으로 넘어갑니다. <br/>
 ![타임아웃](https://user-images.githubusercontent.com/55482623/86343110-7b1e0200-bc93-11ea-864e-fb3c62a13c4e.png)
 <br/><br/>
 
